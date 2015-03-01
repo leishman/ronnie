@@ -13,5 +13,8 @@
     "learning"
   ],
   "author": "Alexander Leishman",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^2.1.0"
+  }
 }
