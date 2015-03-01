@@ -1,0 +1,17 @@
+{
+  "name": "ronnie",
+  "version": "0.0.1",
+  "description": "Machine Learning JavaScript utility",
+  "main": "./lib/ronnie.js",
+  "scripts": {
+    "test": "mocha test/unit"
+  },
+  "keywords": [
+    "neural",
+    "network",
+    "machine",
+    "learning"
+  ],
+  "author": "Alexander Leishman",
+  "license": "ISC"
+}
